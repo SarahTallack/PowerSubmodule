@@ -1,0 +1,16 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 259f1863-4784-446d-9dd6-87a72d854e48)
+
+  (paper "A4")
+
+  (title_block
+    (rev "V1")
+    (company "University of Cape Town")
+    (comment 1 "Author: Sarah Tallack")
+  )
+
+  (lib_symbols
+  )
+
+)
